@@ -105,5 +105,5 @@ results/                   cleaned data and statistical result tables
 ## Data source
 
 Department for Education (England), GCSE results by sex at local authority level, published on GOV.UK.
-Source page: *add the link to the page you downloaded the file from*.
+Source page: Mediterranean College.
 Contains public sector information licensed under the Open Government Licence v3.0.
